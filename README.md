@@ -1,2 +1,2 @@
 # toucans-team-03
-Add-project-description-here | Chingu Voyage-6 | https://chingu.io/
+A team of three devs making an awesome project while learning | Chingu Voyage-6 | https://chingu.io/
