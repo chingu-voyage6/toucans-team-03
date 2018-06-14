@@ -1,2 +1,21 @@
 # toucans-team-03
-A team of three devs making an awesome project while learning | Chingu Voyage-6 | https://chingu.io/
+### Made by ......
+
+# Project: ........
+#### Description: ....
+
+### ToDo list
+- [x] Select team lead (Jam)
+- [x] Decide WorkFlow tools
+- [ ] Choose project idea 
+- [ ] Decide MVP
+
+#### Goals in order of importance.
+1.
+1.
+1.
+
+#### Suggestions
+- 
+-
+-
