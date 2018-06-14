@@ -4,9 +4,9 @@
 ### Description: ....
 
 ### ToDo list
-- [x] Select team lead (Jam)
-- [x] Decide WorkFlow tools
-- [ ] Choose project idea 
+- [x] Select team lead (Allan)
+- [x] Decide on WorkFlow tools
+- [ ] Choose project idea
 - [ ] Decide MVP
 
 #### Goals in order of importance
