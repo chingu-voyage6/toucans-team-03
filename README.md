@@ -1,5 +1,5 @@
 # toucans-team-03
-### Made by ......
+### Made by chelimo, mawle and allan :briefcase:
 
 # Project: ........
 #### Description: ....
@@ -10,12 +10,12 @@
 - [ ] Choose project idea 
 - [ ] Decide MVP
 
-#### Goals in order of importance.
-1.
+#### Goals in order of importance
+1. No goals yet
 1.
 1.
 
 #### Suggestions
-- 
+- No suggestions yet
 -
 -
