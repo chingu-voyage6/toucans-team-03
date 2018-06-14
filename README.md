@@ -1,8 +1,7 @@
-# toucans-team-03
-### Made by chelimo, mawle and allan :briefcase:
+# Toucans-team-03
 
 # Project: ........
-#### Description: ....
+### Description: ....
 
 ### ToDo list
 - [x] Select team lead (Jam)
@@ -19,3 +18,5 @@
 - No suggestions yet
 -
 -
+
+### Made by chelimo, mawle and allan :briefcase:
