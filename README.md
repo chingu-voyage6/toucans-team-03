@@ -5,9 +5,9 @@
 
 ### ToDo list
 - [x] Select team lead (Allan)
-- [x] Decide on WorkFlow tools
-- [ ] Choose project idea
-- [ ] Decide MVP
+- [x] Decide on WorkFlow tools(html5, css3, javascript)
+- [x] Choose project idea(A clone)
+- [x] Decide MVP
 
 #### Goals in order of importance
 1. No goals yet
