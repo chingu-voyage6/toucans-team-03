@@ -17,7 +17,7 @@ The proposed system will have the following features:
 
 ### ToDo list
 - [x] Team lead (Chelimo or Mawle)
-- [x] WorkFlow tools front-end html5, css3 and javascript. Later PHP and MySQL RDMS will be used for back-end
+- [x] Technologies: Front-end: html5, css3 and javascript. Later PHP and MySQL RDMS will be used for back-end
 
 #### Goals in order of importance
 1. No goals yet
