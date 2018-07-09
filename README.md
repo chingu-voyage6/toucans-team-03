@@ -1,6 +1,6 @@
 # Toucans-team-03
 
-# Project: A school-Wide School Management system: Name to be decided
+# Project: Web-based High School Management system: Name to be decided
 
 ### Description:
 - The  proposed  system  is  intended  to  make  life  easy by building  an  integrated  student database   system   to   facilitate   easy   access   of   records   of  students  in a high school.
