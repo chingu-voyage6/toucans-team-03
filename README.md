@@ -28,5 +28,6 @@ The proposed system will have the following features:
 - No suggestions yet
 -
 -
-
+- [x] Week 9th - 14th:
+- design UX
 ### Made by chelimo, mawle and allan :briefcase:
