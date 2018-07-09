@@ -3,10 +3,10 @@
 # Project: A school-Wide School Management system: Name to be decided
 
 ### Description:
-- The  proposed  system  is  intended  to  make  life  easy by by building  an  integrated  student database   system   to   facilitate   easy   access   of   records   of  students  in a high school.
+- The  proposed  system  is  intended  to  make  life  easy by building  an  integrated  student database   system   to   facilitate   easy   access   of   records   of  students  in a high school.
 - The system will allow the administrators (responsible) of  School to Logon, edit, update and list personal and academic details
  of students. 
-- The  proposed  system  is  also  intended  to  allow  students  to view  their  results  on  line.
+- The  proposed  system  is  also  intended  to  allow  students/parents  to view  their results  online.
 
 ### Proposed MVP
 The proposed system will have the following features:  
