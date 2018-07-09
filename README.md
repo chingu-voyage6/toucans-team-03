@@ -10,10 +10,10 @@
 
 ### Proposed MVP
 The proposed system will have the following features:  
- Login module:
- Search  module: 
- Registration  Module and  Account  Management:  This will only be accessible to the admins 
- User  Management:
+- Login module:
+- Search  module: 
+- Registration  Module and  Account  Management:  This will only be accessible to the admins 
+- User  Management:
 
 ### ToDo list
 - [x] Team lead (Chelimo or Mawle)
