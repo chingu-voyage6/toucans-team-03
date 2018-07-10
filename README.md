@@ -1,19 +1,12 @@
 # Toucans-team-03
 
-# Project: Web-based High School Management system: Name to be decided
+# Project: Cloning of tripadvisor.co.za website
 
 ### Description:
-- The  proposed  system  is  intended  to  make  life  easy by building  an  integrated  student database   system   to   facilitate   easy   access   of   records   of  students  in a high school.
-- The system will allow the administrators (responsible) of  School to Logon, edit, update and list personal and academic details
- of students. 
-- The  proposed  system  is  also  intended  to  allow  students/parents  to view  their results  online.
+
 
 ### Proposed MVP
-The proposed system will have the following features:  
-- Login module:
-- Search  module: 
-- Registration  Module and  Account  Management:  This will only be accessible to the admins 
-- User  Management:
+
 
 ### ToDo list
 - [x] Team lead (Chelimo or Mawle)
