@@ -17,3 +17,40 @@ body {
 	margin: 0 auto;
 	background-color: #f7f7f7;
 }
+/* Grid System */
+.col-1 {width: 8.333333333333333%}
+.col-2 {width: 16.66666666666667%}
+.col-3 {width: 25%}
+.col-4 {width: 33.33333333333333%}
+.col-5 {width: 41.66666666666667%}
+.col-6 {width: 50%}
+.col-7 {width: 58.33333333333333%}
+.col-8 {width: 66.66666666666667%}
+.col-9 {width: 75%}
+.col-10 {width: 83.33333333333333%}
+.col-11 {width: 91.66666666666667%}
+.col-12 {width: 100%}
+
+/* Floats the column */
+[class*="col-"] {
+	float: left;
+	padding: 15px;
+}
+/* Hack to clear the floats */
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+/* grid system -- mobile first! */
+
+
+/* Mobile Landscape Screen Sizes */
+@media only screen and (min-width: 480px)  {
+}
+
+/* Desktop screen Sizes */
+@media only screen and (min-width: 768px) {
+}
+/* used for clearing floats */
