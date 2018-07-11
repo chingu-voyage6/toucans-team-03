@@ -1,6 +1,6 @@
 # Toucans-team-03
 
-# Project: Cloning of tripadvisor.co.za website
+# Project:
 
 ### Description:
 
@@ -10,7 +10,7 @@
 
 ### ToDo list
 - [x] Team lead (Chelimo or Mawle)
-- [x] Technologies: Front-end: html5, css3 and javascript. Later PHP and MySQL RDMS will be used for back-end
+- [x] 
 
 #### Goals in order of importance
 1. No goals yet
