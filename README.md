@@ -1,12 +1,12 @@
 # Toucans-team-03
 
-# Project: ........
+# Project: Cloning of tripadvisor.co.za website
 ### Description: ....
 
 ### ToDo list
 - [x] Select team lead (Allan)
-- [x] Decide on WorkFlow tools(html5, css3, javascript)
-- [x] Choose project idea(A clone)
+- [x] Decide front-end technologies: HTML5, CSS3 and Javascript.
+- [x] Choose project idea:  Cloning Landing page
 - [x] Decide MVP
 
 #### Goals in order of importance
