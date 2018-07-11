@@ -20,3 +20,10 @@
 -
 
 ### Made by chelimo, mawle and allan :briefcase:
+
+## 10/07/2018
+- added container div and wrapper class to the index.html file
+- defined box-sizing property for all elements to the css file
+- created 12-column grid of with 15px and floated to left
+- created a hack fix to clear floats in css
+- gave body default font and set its background color
